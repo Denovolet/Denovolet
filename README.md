@@ -6,10 +6,10 @@
 
 ##
 
-- 🔭 Trabalho atualmente como Auxiliar de Suporte N1
-- 📚 Sou bacharel em Análise e Desenvolvimento de Sistemas e desenvolvedora Full Stack, sempre buscando transformar ideias em código com criatividade e inovação. Curiosa por natureza, encaro desafios com paciência e energia, trazendo soluções dinâmicas e funcionais. Disposta a aprender e evoluir, porque tecnologia vai além do código — é sobre impacto e conexão. 🚀💡
+- 🔭 Trabalho atualmente como Suporte N3
+- 📚 Sou bacharel em Análise e Desenvolvimento de Sistemas e desenvolvedora Full Stack, sempre buscando transformar ideias em código com criatividade e inovação. Curiosa por natureza, encaro desafios com paciência e energia, trazendo soluções dinâmicas e funcionais. Disposta a aprender e evoluir, porque tecnologia vai além do código é sobre impacto e conexão. 🚀💡
 - 💖 Curiosidades sobre mim: Iniciei meus estudos em Design gráfico e me formei pela Escola Britânica de Artes Criativas e Digitais tendo em meu repertorio outros cursos complementares, prestei serviços freelancers de Design e marketing, em 2020 entrei como suporte de redes fornecendo serviços ao banco Caixa e desde ai me apaixonei por esse universo.
-- 📧 Contate-me pelo e-mail: denovajobs@gmail.com
+- 📧 Contate-me pelo e-mail: emocode@gmail.com
 - 👩🏽‍🦱 Pronomes : Ela/Dela
 
 
