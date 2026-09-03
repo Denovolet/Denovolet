@@ -10,10 +10,13 @@
 
 ## Sobre mim
 
-- Profissional de TI com experiência em suporte, sistemas, APIs e observabilidade.
-- Atualmente direcionando minha carreira para **QA e Engenharia de Testes**.
-- Experiência com investigação de falhas, troubleshooting, documentação técnica e validação de aplicações.
-- Estudando e praticando **testes de API, automação com Playwright e testes de regressão**.
+Profissional de TI migrando cada vez mais para o mundo de **QA e Engenharia de Testes**.
+
+Gosto de investigar falhas, entender por que algo quebrou e, claro, tentar quebrar de novo — dessa vez de propósito.
+
+Atualmente estou focada em **testes de software, testes de API e automação com Playwright**, trazendo também minha experiência com suporte, troubleshooting, APIs e observabilidade para olhar os problemas de forma mais completa.
+
+Meu foco é continuar evoluindo em **qualidade de software e automação de testes**, construindo projetos práticos e documentando o processo de testes de forma clara e organizada.
 
 ---
 
