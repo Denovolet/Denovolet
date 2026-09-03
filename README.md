@@ -88,41 +88,21 @@ Durante o projeto, criei e executei casos de teste, encontrei e documentei falha
 
 <div align="center">
 
-<h3>♡ currently testing... ♡</h3>
-
-<br>
-
-<img src="https://img.shields.io/badge/API%20TESTING-000000?style=for-the-badge&logo=postman&logoColor=FF69B4" alt="API Testing">
-<img src="https://img.shields.io/badge/PLAYWRIGHT-000000?style=for-the-badge&logo=playwright&logoColor=FF69B4" alt="Playwright">
-<img src="https://img.shields.io/badge/REGRESSION-000000?style=for-the-badge&logo=checkmarx&logoColor=FF69B4" alt="Regression Testing">
-<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=FF69B4" alt="GitHub Actions">
-
-<br><br>
-
-<b>10 automated tests</b>
-&nbsp;&nbsp; ♡ &nbsp;&nbsp;
-<b>2 documented bugs</b>
-&nbsp;&nbsp; ♡ &nbsp;&nbsp;
-<b>CI passing ✓</b>
-
-<br><br>
-
-<sub>test • break • report • fix • retest • repeat ♡</sub>
+<h3>♡ QA mode: ON ♡</h3>
 
 </div>
 
----
+```text
+> running qa.exe...
 
-<div align="center">
+[✓] API testing
+[✓] Regression testing
+[✓] Bug hunting
+[✓] Test automation
+[✓] CI pipeline
 
-<h3>Connect with me ♡</h3>
+[10] automated tests
+[02] documented bugs
+[✓] build passing
 
-<a href="https://www.linkedin.com/in/emocode/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/letciadenova/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
-</a>
-
-</div>
+[♡] breaking things on purpose...
