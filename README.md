@@ -108,15 +108,17 @@ No projeto realizo testes manuais e automatizados, criação de casos de teste, 
 
 <h3>♡ QA Status ♡</h3>
 
-<img src="https://img.shields.io/badge/Automated%20Tests-10-FF69B4?style=for-the-badge&logo=playwright&logoColor=white" alt="10 Automated Tests">
-<img src="https://img.shields.io/badge/Bugs%20Documented-2-FF85C2?style=for-the-badge&logo=bugsnag&logoColor=white" alt="2 Bugs Documented">
-<img src="https://img.shields.io/badge/Regression%20Tests-2-F4A6C8?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Regression Tests">
+<p>
+  <img src="https://img.shields.io/badge/Automated%20Tests-10-FF69B4?style=for-the-badge" alt="10 Automated Tests">
+  <img src="https://img.shields.io/badge/Bugs%20Documented-2-FF85C2?style=for-the-badge" alt="2 Bugs Documented">
+  <img src="https://img.shields.io/badge/Regression%20Tests-2-FFB6D9?style=for-the-badge" alt="2 Regression Tests">
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/API%20Testing-Playwright-000000?style=for-the-badge&logo=playwright&logoColor=FF69B4" alt="API Testing">
-<img src="https://img.shields.io/badge/CI-GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FF69B4" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Focus-QA%20%26%20Test%20Automation-000000?style=for-the-badge&logo=testinglibrary&logoColor=FF69B4" alt="QA and Test Automation">
+<p>
+  <img src="https://img.shields.io/badge/API%20Testing-000000?style=for-the-badge&logo=postman&logoColor=FF69B4" alt="API Testing">
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=FF69B4" alt="Playwright">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FF69B4" alt="GitHub Actions">
+</p>
 
 </div>
 
