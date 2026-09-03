@@ -106,13 +106,17 @@ No projeto realizo testes manuais e automatizados, criação de casos de teste, 
 
 <div align="center">
 
-<h3>♡ GitHub Stats ♡</h3>
+<h3>♡ QA Status ♡</h3>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Denovolet&show_icons=true&hide_title=true&hide=issues&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&border_color=FF69B4&border_radius=8" alt="GitHub Stats">
+<img src="https://img.shields.io/badge/Automated%20Tests-10-FF69B4?style=for-the-badge&logo=playwright&logoColor=white" alt="10 Automated Tests">
+<img src="https://img.shields.io/badge/Bugs%20Documented-2-FF85C2?style=for-the-badge&logo=bugsnag&logoColor=white" alt="2 Bugs Documented">
+<img src="https://img.shields.io/badge/Regression%20Tests-2-F4A6C8?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Regression Tests">
 
 <br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denovolet&layout=compact&langs_count=6&hide=html,css&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&border_color=FF69B4&border_radius=8" alt="Most Used Languages">
+<img src="https://img.shields.io/badge/API%20Testing-Playwright-000000?style=for-the-badge&logo=playwright&logoColor=FF69B4" alt="API Testing">
+<img src="https://img.shields.io/badge/CI-GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FF69B4" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Focus-QA%20%26%20Test%20Automation-000000?style=for-the-badge&logo=testinglibrary&logoColor=FF69B4" alt="QA and Test Automation">
 
 </div>
 
