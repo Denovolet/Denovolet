@@ -88,7 +88,7 @@ Durante o projeto, criei e executei casos de teste, encontrei e documentei falha
 
 <div align="center">
 
-<h3>♡ testing things & finding bugs ♡</h3>
+<h3>♡ what I'm testing lately... ♡</h3>
 
 <img src="https://img.shields.io/badge/API%20TESTING-000000?style=flat-square&logo=postman&logoColor=FF69B4" alt="API Testing">
 <img src="https://img.shields.io/badge/PLAYWRIGHT-000000?style=flat-square&logo=playwright&logoColor=FF69B4" alt="Playwright">
