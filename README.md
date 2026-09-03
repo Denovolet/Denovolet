@@ -1,18 +1,23 @@
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0056&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;QA+%7C+Software+Testing+%7C+API+Testing;Playwright+%7C+TypeScript+%7C+Python" alt="Typing SVG">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=650&lines=%E2%99%A1+Welcome+to+my+profile!;%E2%99%A1+QA+%7C+Software+Testing+%7C+API+Testing;%E2%99%A1+Playwright+%7C+TypeScript+%7C+Python"
+      alt="Typing SVG"
+    >
   </a>
+
 </div>
 
 ##
 
 ### Sobre mim
 
-- Atualmente trabalho com TI, com experiência em suporte, sistemas, APIs e observabilidade.
-- Estou direcionando minha carreira para **QA e Engenharia de Testes**, com foco em testes de software, testes de API e automação.
-- Tenho experiência com troubleshooting, investigação de incidentes, análise de falhas, documentação técnica e validação de aplicações.
-- Atualmente estou aprofundando meus conhecimentos em **Playwright, TypeScript, Python, SQL e automação de testes**.
-- Também possuo experiência com ferramentas de observabilidade como **Datadog e IBM Instana**.
+- Trabalho com tecnologia, com experiência em suporte, sistemas, APIs e observabilidade.
+- Atualmente direciono minha carreira para QA e Engenharia de Testes.
+- Tenho experiência com investigação de falhas, troubleshooting, testes de software e documentação técnica.
+- Venho aprofundando meus conhecimentos em testes de API e automação com Playwright.
+- Também trabalho com Python, TypeScript, SQL e ferramentas de observabilidade como Datadog e IBM Instana.
 
 ##
 
@@ -20,14 +25,14 @@
 
 - Testes manuais
 - Testes de API
-- Casos de teste
+- Criação e execução de casos de teste
 - Cenários positivos e negativos
 - Bug hunting
 - Documentação de bugs
-- Reteste
+- Retestes
 - Testes de regressão
-- Automação com Playwright
-- CI com GitHub Actions
+- Automação de testes com Playwright
+- Integração de testes com GitHub Actions
 
 ##
 
@@ -61,56 +66,94 @@
 
 #### CaçaBug
 
-Projeto pessoal criado para praticar **QA, testes de API e automação de testes**.
+Projeto pessoal criado para praticar um fluxo real de QA utilizando uma API como sistema de testes.
 
-No projeto desenvolvi casos de teste, executei cenários positivos e negativos, documentei bugs encontrados durante os testes e realizei retestes após as correções.
+No projeto realizo testes manuais e automatizados, criação de casos de teste, investigação e documentação de bugs, retestes e testes de regressão.
 
-Também automatizei os principais cenários utilizando **Playwright** e configurei o **GitHub Actions** para executar os testes automaticamente.
+Atualmente o projeto possui:
 
 - 10 testes automatizados
 - Testes de API
 - Casos de teste manuais
-- 2 bugs encontrados e documentados
-- Retestes
+- Cenários positivos e negativos
+- Bugs encontrados e documentados
 - Testes de regressão
-- Playwright
-- GitHub Actions
+- Automação com Playwright
+- Execução automática com GitHub Actions
+
+Tecnologias utilizadas: **TypeScript, Node.js, Fastify, Playwright e GitHub Actions.**
 
 <a href="https://github.com/Denovolet/Cacabug">
-  Ver projeto CaçaBug
+  <img src="https://img.shields.io/badge/Ver%20projeto-Ca%C3%A7aBug-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ##
 
-### Connect with me!
+<div align="center">
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:denovajobs@gmail.com)
+### ♡ QA girl hunting bugs...
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/emocode/)
+<sub>finding bugs, breaking things & collecting commits on purpose ♡</sub>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/letciadenova/)
+<br><br>
 
-##
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denovolet/Denovolet/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Denovolet/Denovolet/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Denovolet/Denovolet/output/github-contribution-grid-snake.svg">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Denovolet/Denovolet/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Denovolet/Denovolet/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="QA girl hunting bugs through GitHub contributions"
+    src="https://raw.githubusercontent.com/Denovolet/Denovolet/output/github-contribution-grid-snake.svg"
+  >
 </picture>
 
-##
+<br><br>
 
-<div style="text-align: center;" align="center">
-
-  <h3>GitHub Stats</h3>
-
-  <br>
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Denovolet&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF0066&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/Denovolet/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Denovolet&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF1066&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<sub>🐛 bugs found • 🩷 tests written • ✨ commits collected</sub>
 
 </div>
 
+##
+
+<div align="center">
+
+### ♡ GitHub Stats ♡
+
+<br>
+
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Denovolet&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF69B4&text_color=FFF&border_radius=3&border_color=FF69B4&icon_color=FF69B4"
+  alt="GitHub Stats"
+>
+
+<br><br>
+
+<a href="https://github.com/Denovolet">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Denovolet&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=4&show_icons=true&title_color=FF69B4&hide=html,css&bg_color=000&text_color=FFF&border_radius=3&border_color=FF69B4"
+    alt="Most Used Languages"
+  >
+</a>
+
+</div>
+
+##
+
+<div align="center">
+
+### Connect with me ♡
+
+<a href="https://www.linkedin.com/in/emocode/">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4">
+</a>
+
+<a href="https://www.instagram.com/letciadenova/">
+  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4">
+</a>
+
+</div>
