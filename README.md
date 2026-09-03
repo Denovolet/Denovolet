@@ -108,11 +108,11 @@ No projeto realizo testes manuais e automatizados, criação de casos de teste, 
 
 <h3>♡ GitHub Stats ♡</h3>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Denovolet&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&border_radius=3&border_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Denovolet&show_icons=true&hide_title=true&hide=issues&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&border_color=FF69B4&border_radius=8" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Denovolet&layout=compact&langs_count=4&hide=html,css&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&border_radius=3&border_color=FF69B4" alt="Most Used Languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denovolet&layout=compact&langs_count=6&hide=html,css&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&border_color=FF69B4&border_radius=8" alt="Most Used Languages">
 
 </div>
 
