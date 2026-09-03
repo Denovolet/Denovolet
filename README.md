@@ -10,26 +10,16 @@
 
 ## Sobre mim
 
-- Trabalho com tecnologia, com experiência em suporte, sistemas, APIs e observabilidade.
-- Atualmente direciono minha carreira para **QA e Engenharia de Testes**.
-- Tenho experiência com investigação de falhas, troubleshooting, testes de software e documentação técnica.
-- Venho aprofundando meus conhecimentos em **testes de API e automação com Playwright**.
-- Também trabalho com Python, TypeScript, SQL e ferramentas de observabilidade como Datadog e IBM Instana.
+- Profissional de TI com experiência em suporte, sistemas, APIs e observabilidade.
+- Atualmente direcionando minha carreira para **QA e Engenharia de Testes**.
+- Experiência com investigação de falhas, troubleshooting, documentação técnica e validação de aplicações.
+- Estudando e praticando **testes de API, automação com Playwright e testes de regressão**.
 
 ---
 
 ## QA & Testes
 
-- Testes manuais
-- Testes de API
-- Criação e execução de casos de teste
-- Cenários positivos e negativos
-- Bug hunting
-- Documentação de bugs
-- Retestes
-- Testes de regressão
-- Automação de testes com Playwright
-- Integração de testes com GitHub Actions
+`Testes Manuais` • `API Testing` • `Bug Hunting` • `Casos de Teste` • `Retestes` • `Testes de Regressão` • `Playwright` • `GitHub Actions`
 
 ---
 
@@ -55,25 +45,18 @@
 
 ### CaçaBug
 
-Projeto pessoal criado para praticar um fluxo de QA utilizando uma API como sistema de testes.
+Projeto pessoal de QA desenvolvido para praticar **testes de API, documentação de bugs e automação de testes**.
 
-No projeto realizo testes manuais e automatizados, criação de casos de teste, investigação e documentação de bugs, retestes e testes de regressão.
+Durante o projeto, criei e executei casos de teste, encontrei e documentei falhas, realizei retestes após as correções e automatizei os principais cenários com Playwright.
 
-**O projeto possui:**
+**10 testes automatizados** • **2 bugs documentados** • **Testes de regressão** • **CI com GitHub Actions**
 
-- 10 testes automatizados
-- Testes de API
-- Casos de teste manuais
-- Cenários positivos e negativos
-- Bugs encontrados e documentados
-- Testes de regressão
-- Automação com Playwright
-- Execução automática com GitHub Actions
+**Stack:** TypeScript • Node.js • Fastify • Playwright • GitHub Actions
 
-**Tecnologias:** TypeScript, Node.js, Fastify, Playwright e GitHub Actions.
+<br>
 
 <a href="https://github.com/Denovolet/Cacabug">
-  <img src="https://img.shields.io/badge/Ver%20projeto-Ca%C3%A7aBug-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="CaçaBug">
+  <img src="https://img.shields.io/badge/VER%20PROJETO-CA%C3%87ABUG-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="CaçaBug">
 </a>
 
 ---
@@ -82,11 +65,9 @@ No projeto realizo testes manuais e automatizados, criação de casos de teste, 
 
 <h3>♡ QA girl hunting bugs... ♡</h3>
 
-<p>
-  <i>finding bugs, breaking things & collecting commits on purpose ♡</i>
-</p>
+<i>finding bugs, breaking things & collecting commits on purpose ♡</i>
 
-<br>
+<br><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denovolet/Denovolet/output/github-contribution-grid-snake-dark.svg">
@@ -96,9 +77,7 @@ No projeto realizo testes manuais e automatizados, criação de casos de teste, 
 
 <br><br>
 
-<p>
-  🐛 bugs found &nbsp; • &nbsp; 🩷 tests written &nbsp; • &nbsp; ✨ commits collected
-</p>
+🐛 &nbsp; bugs found &nbsp;&nbsp; • &nbsp;&nbsp; 🩷 &nbsp; tests written &nbsp;&nbsp; • &nbsp;&nbsp; ✨ &nbsp; commits collected
 
 </div>
 
@@ -106,19 +85,26 @@ No projeto realizo testes manuais e automatizados, criação de casos de teste, 
 
 <div align="center">
 
-<h3>♡ QA Status ♡</h3>
+<h3>♡ currently testing... ♡</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Automated%20Tests-10-FF69B4?style=for-the-badge" alt="10 Automated Tests">
-  <img src="https://img.shields.io/badge/Bugs%20Documented-2-FF85C2?style=for-the-badge" alt="2 Bugs Documented">
-  <img src="https://img.shields.io/badge/Regression%20Tests-2-FFB6D9?style=for-the-badge" alt="2 Regression Tests">
-</p>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/API%20Testing-000000?style=for-the-badge&logo=postman&logoColor=FF69B4" alt="API Testing">
-  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=FF69B4" alt="Playwright">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FF69B4" alt="GitHub Actions">
-</p>
+<img src="https://img.shields.io/badge/API%20TESTING-000000?style=for-the-badge&logo=postman&logoColor=FF69B4" alt="API Testing">
+<img src="https://img.shields.io/badge/PLAYWRIGHT-000000?style=for-the-badge&logo=playwright&logoColor=FF69B4" alt="Playwright">
+<img src="https://img.shields.io/badge/REGRESSION-000000?style=for-the-badge&logo=checkmarx&logoColor=FF69B4" alt="Regression Testing">
+<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=FF69B4" alt="GitHub Actions">
+
+<br><br>
+
+<b>10 automated tests</b>
+&nbsp;&nbsp; ♡ &nbsp;&nbsp;
+<b>2 documented bugs</b>
+&nbsp;&nbsp; ♡ &nbsp;&nbsp;
+<b>CI passing ✓</b>
+
+<br><br>
+
+<sub>test • break • report • fix • retest • repeat ♡</sub>
 
 </div>
 
