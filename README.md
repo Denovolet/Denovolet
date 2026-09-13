@@ -12,7 +12,7 @@
 
 Profissional de TI migrando cada vez mais para o mundo de **QA e Engenharia de Testes**.
 
-Gosto de investigar falhas, entender por que algo quebrou e, claro, tentar quebrar de novo — dessa vez de propósito.
+Gosto de investigar falhas, entender por que algo quebrou e, claro, tentar quebrar de novo dessa vez de propósito.
 
 Atualmente estou focada em **testes de software, testes de API e automação com Playwright**, trazendo também minha experiência com suporte, troubleshooting, APIs e observabilidade para olhar os problemas de forma mais completa.
 
